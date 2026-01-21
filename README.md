@@ -1,4 +1,4 @@
-# Russ Weakley CV / Portfolio
+# Russ Weakley Resume and Portfolio
 
 ## Bio
 
@@ -6,7 +6,7 @@ Russ Weakley has over 30 years of experience in the design and development field
 
 ## Resume:
 
-- [Resume Word Doc](https://github.com/russmaxdesign/portfolio/blob/main/Russ-Weakley-Resume.docx)
+- [Resume Word doc](https://github.com/russmaxdesign/portfolio/blob/main/Russ-Weakley-Resume.docx)
 - [Resume PDF file](https://github.com/russmaxdesign/portfolio/blob/main/Russ-Weakley-Resume.pdf)
 
 ## Design portfolio:
