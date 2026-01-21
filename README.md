@@ -13,3 +13,6 @@ Russ Weakley has over 30 years of experience in the design and development field
 
 - [Portfolio PDF file](https://github.com/russmaxdesign/portfolio/blob/main/Russ-Weakley-Portfolio.pdf)
 
+## Headshot
+
+![Russ Weakley headshot](Russ-Weakley-headshot.png)
