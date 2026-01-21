@@ -1,8 +1,8 @@
-# Russ Weakley Resume and Portfolio
+# Russ Weakley - Resume and Portfolio
 
 ## Bio
 
-Russ Weakley has over 30 years of experience in the design and development field. He is a User Experience professional, front-end developer, author, and trainer, with a deep passion for accessibility and inclusion. Russ has dedicated much of his career to advocating for accessible design practices, ensuring that digital experiences are usable and inclusive for everyone, regardless of ability.
+Russ Weakley has over 30 years of experience in design and development as a user experience professional, front-end developer, author, and trainer. He has a deep focus on accessibility and inclusion, and has spent much of his career helping organisations build digital experiences that are usable and inclusive for people of all abilities.
 
 ## Resume:
 
@@ -14,5 +14,7 @@ Russ Weakley has over 30 years of experience in the design and development field
 - [Portfolio PDF file](https://github.com/russmaxdesign/portfolio/blob/main/Russ-Weakley-Portfolio.pdf)
 
 ## Headshot
+
+This headshot may be used for conference speaking, profiles, and professional bios.
 
 ![Russ Weakley headshot](Russ-Weakley-headshot.png)
