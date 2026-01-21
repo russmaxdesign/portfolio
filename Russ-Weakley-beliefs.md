@@ -1,4 +1,8 @@
-Some of my personal statements include:
+These statements reflect my personal values and my commitment to human rights, international law, and ethical practice. They are not intended to prescribe policy positions, but to provide context for how I approach inclusive and responsible work.
+
+I strongly believe in the following:
+
+Humanitarian:
 
 - Gender equality
 - LGBTQ+ rights
@@ -20,6 +24,8 @@ Some of my personal statements include:
 - War and occupation are not solutions
 - Capitalism puts profit over people and the planet
 - Colonialism and its ongoing impacts must be dismantled
+
+Environmental:
 
 - Climate change is real and caused by humans
 - Decisions should be based on fact and science
