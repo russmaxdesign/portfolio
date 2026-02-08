@@ -1,3 +1,5 @@
+# My core beliefs
+
 These statements reflect my personal values and my commitment to human rights, international law, and ethical practice. They are not intended to prescribe policy positions, but to provide context for how I approach inclusive and responsible work.
 
 I strongly believe in the following:
