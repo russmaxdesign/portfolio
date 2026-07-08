@@ -25,7 +25,6 @@ I strongly believe in the following:
 
 - Workers deserve fair wages and safe conditions
 - Corporations and the wealthy should pay their fair share
-- Capitalism puts profit over people and the planet
 
 ## Democracy, law, and justice systems
 
