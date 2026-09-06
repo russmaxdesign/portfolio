@@ -1,45 +1,39 @@
 # Russ Weakley
 
-**Digital Accessibility Specialist**
+**Digital accessibility, training and product strategy specialist**
 
 * Email: [russ@maxdesign.com.au](mailto:russ@maxdesign.com.au)
 * Mobile: 0403 433 980
 * Location: Sydney, Australia
-* LinkedIn: https://www.linkedin.com/in/russweakley/
-* GitHub: https://github.com/russmaxdesign
+* [LinkedIn](https://www.linkedin.com/in/russweakley/)
+* [GitHub](https://github.com/russmaxdesign)
 
 ---
 
 ## 1. Profile
 
-I’m a Digital Accessibility Specialist with extensive experience across accessibility, front-end development, UX, design systems, inclusive research and training.
+I’m a digital accessibility specialist with extensive experience across accessibility, front-end development, UX, design systems, inclusive research, training and organisational capability development.
 
-I have worked with major organisations in banking and insurance, helping teams test, build and improve accessible digital products and complex interfaces.
+My current work spans training product strategy and development, client engagement and sales, marketing and lead generation, technical writing, and AI-assisted tool and workflow development. I combine deep technical accessibility knowledge with practical experience helping organisations build capability and turn specialist knowledge into useful, scalable products and services.
 
-My experience includes accessibility auditing and remediation, accessibility strategy and governance, assistive technology testing, inclusive research with people with disabilities, developer support, organisational capability development and accessibility training.
-
-I combine deep technical accessibility knowledge with practical experience helping designers, developers, testers, content creators and product teams understand accessibility barriers and implement effective solutions.
-
-I have also worked directly with people with disabilities for more than 20 years through usability testing, interviews, focus groups and research conducted in homes and workplaces, helping ensure accessibility decisions are informed by lived experience.
+I have worked with major organisations in banking, insurance and other sectors, helping teams test, build and improve accessible digital products. I have also worked directly with people with disability for more than 20 years through usability testing, interviews, focus groups and research conducted in homes and workplaces.
 
 ---
 
 ## 2. Areas of expertise
 
 * Accessibility testing, auditing and remediation
-* WCAG interpretation and practical application
+* Accessibility strategy, governance and organisational capability
+* Training product strategy and curriculum development
+* Client engagement, sales and consulting
+* Marketing, lead generation and B2B Account-Based Marketing
 * Assistive technology testing
-* Accessibility strategy and governance
-* Organisational capability development
-* Accessibility training and curriculum development
-* Inclusive research with people with disabilities
+* Inclusive research with people with disability
 * Design systems and accessible component architecture
 * Semantic HTML, CSS and ARIA
-* Front-end accessibility
-* Accessibility acceptance criteria
-* Automated accessibility testing
-* Developer and product team support
-* Technical writing and educational resources
+* Technical writing and developer education
+* AI-assisted product and workflow development
+* Automated accessibility testing and acceptance criteria
 
 ---
 
@@ -49,22 +43,18 @@ I have also worked directly with people with disabilities for more than 20 years
 
 **November 2021 to present**
 
-Lead the strategy, planning and delivery of Intopia’s accessibility education ecosystem, helping organisations build practical accessibility capability across product, design, development, testing and content teams.
+Lead the strategy, planning, development and delivery of Intopia’s accessibility education ecosystem, helping organisations build practical accessibility capability across product, design, development, testing and content teams.
 
 * Lead accessibility learning and capability strategies for organisations and teams.
-* Develop organisational training strategies based on current levels of accessibility skill, knowledge and understanding.
-* Use skills and knowledge surveys to identify capability gaps and shape training programs.
-* Develop pre-training engagement strategies to increase awareness, participation and organisational support.
-* Plan post-training activities that reinforce learning and help teams apply accessibility in day-to-day work.
-* Oversee the full training lifecycle, from identifying learning needs and developing concepts through to curriculum design, scripting, exercises, production, delivery and evaluation.
-* Design and deliver accessibility learning for developers, designers, testers, content creators, accessibility specialists and organisational leaders.
-* Lead development across instructor-led and self-paced training formats.
+* Identify capability gaps and develop organisational training strategies based on audience needs, skills and knowledge.
+* Oversee the full training lifecycle, from identifying learning needs and developing concepts through to curriculum design, production, delivery and evaluation.
+* Lead development across instructor-led, self-paced and LMS-delivered training formats.
 * Translate WCAG, HTML, ARIA, assistive technology behaviour and complex accessibility concepts into practical guidance.
-* Deliver practical accessibility testing training, including NVDA and VoiceOver.
-* Design and deliver training on conducting user research with people with disability, including interaction with people with lived experience.
-* Develop hands-on accessibility exercises, test pages and supporting resources used by auditors, QA teams and other accessibility practitioners.
+* Design and deliver specialist training, including accessibility testing with NVDA and VoiceOver and conducting research with people with disability.
+* Develop hands-on accessibility exercises, test pages and resources for auditors, QA teams and accessibility practitioners.
+* Meet with prospective clients, identify training needs, scope and price engagements, prepare proposals and support opportunities through to delivery.
+* Develop marketing and lead-generation approaches for training products, including warm lead and Professional B2B Account-Based Marketing strategies.
 * Partner with organisations to embed accessibility knowledge and capability across roles and teams.
-* Support organisations in moving from one-off accessibility awareness activities to sustained capability development.
 
 ### Accessibility Principal, IAG
 
@@ -72,15 +62,12 @@ Lead the strategy, planning and delivery of Intopia’s accessibility education 
 
 Led accessibility strategy, compliance, testing and capability initiatives to help teams deliver more accessible digital products and customer experiences.
 
-* Supported sprint teams with hands-on troubleshooting and remediation of accessibility issues during design and development.
-* Conducted 20 full accessibility audits across 20 digital products, identifying barriers and providing practical remediation guidance.
-* Introduced automated accessibility testing tools into development pipelines so teams could identify issues earlier in delivery.
-* Delivered accessibility awareness sessions across the organisation, including sessions for senior leaders and executives.
+* Supported sprint teams with hands-on troubleshooting and remediation during design and development.
+* Conducted 20 full accessibility audits across 20 digital products.
+* Introduced automated accessibility testing into development pipelines.
+* Delivered accessibility awareness sessions for teams, senior leaders and executives.
 * Delivered accessibility training for developers across 12 product squads.
-* Provided specialist accessibility guidance to product, design, development and QA teams.
-* Supported accessibility compliance and practical application of WCAG requirements.
-* Helped teams understand and use accessibility acceptance criteria throughout design, development and testing.
-* Helped embed accessibility into development practices, delivery workflows and organisational ways of working.
+* Helped product, design, development and QA teams apply WCAG, accessibility acceptance criteria and accessible delivery practices.
 
 ### Design System Principal, IAG
 
@@ -90,12 +77,9 @@ Defined the vision and direction for IAG’s Chroma design system, ensuring acce
 
 * Led design system strategy, architecture and direction.
 * Embedded accessibility into reusable components, patterns and design system practices.
-* Translated accessibility requirements into scalable solutions that could be reused across products and teams.
+* Translated accessibility requirements into scalable solutions used across products and teams.
 * Worked with designers and developers to make complex interface patterns accessible.
-* Supported consistent implementation of accessible UI patterns across product teams.
-* Developed component standards, documentation and contribution approaches.
-* Supported accessible design-to-code workflows.
-* Helped ensure accessibility decisions made at component level improved outcomes across multiple products.
+* Developed component standards, documentation and accessible design-to-code approaches.
 
 ### UX Designer / UI Developer, Ambiata
 
@@ -103,11 +87,9 @@ Defined the vision and direction for IAG’s Chroma design system, ensuring acce
 
 Developed a design system and component library for new web applications, combining UX, front-end development and accessibility.
 
-* Responsible for accessibility across web interfaces, including design system components, UI patterns and application layouts.
-* Developed HTML and SCSS pattern libraries.
+* Developed accessible HTML and SCSS pattern libraries and reusable components.
 * Designed user interfaces and digital experiences.
-* Integrated accessibility requirements throughout design and development.
-* Developed reusable, accessible components and interaction patterns.
+* Integrated accessibility throughout design and development.
 * Worked directly with developers to resolve accessibility issues.
 
 ---
@@ -115,233 +97,118 @@ Developed a design system and component library for new web applications, combin
 ## 4. Earlier career
 
 ### UX Designer / UI Developer, WhistleOut
+
 **February 2015 to December 2015**
+
 Built responsive component and layout libraries for WhistleOut’s digital products, combining front-end development, design systems and accessibility.
 
 ### UI Developer and Accessibility Specialist, Fiserv
+
 **2013 to 2014**
+
 Provided accessibility advice and implementation support across a large banking application, working directly with developers on accessible UI components and complex interfaces.
 
 ### UX/UI Designer and Accessibility Specialist, Australian Museum
+
 **January 1998 to December 2013**
-Led design and development of museum websites and digital products, combining accessibility, UX, front-end development and research with people with disabilities.
+
+Led design and development of museum websites and digital products, combining accessibility, UX, front-end development and research with people with disability.
 
 ### Web Manager, Australian Museum
+
 **March 2005 to January 2006**
+
 Managed museum web projects and supervised three full-time staff and several contractors.
 
 ### Founder / UX/UI Designer and Accessibility Specialist, Max Design
+
 **January 1990 to February 2014**
+
 Founded and managed a web development business specialising in accessibility, UX, UI design and training. Clients included Microsoft Australia, Sensis, Sydney Morning Herald, Amnesty International Australia and Reed Publishing, with training delivered in Australia, Singapore, New Zealand and the United States.
 
 ---
 
 ## 5. Selected capabilities and achievements
 
-> **This section is intentionally incomplete.**
->
-> The aim is to use this section to demonstrate capabilities that are important to the potential new role but are not adequately represented in the traditional employment history above.
->
-> Each area should eventually contain a short explanation plus specific examples, outcomes or figures where useful.
-
 ### Training product strategy and development
 
-**Possible areas to explore:**
+* Identify opportunities for new training products and delivery models.
+* Develop instructor-led and self-paced training for different roles and levels of experience.
+* Package training for individuals, teams and large organisations.
+* Develop organisational approaches combining instructor-led, self-paced and LMS-delivered training.
+* Manage the full training lifecycle, from identifying learning needs through to curriculum development, delivery and review.
+* Translate specialist accessibility knowledge into practical learning products.
+* Review and refine training based on learner, instructor and client needs.
 
-* Identifying opportunities for new training products
-* Developing instructor-led and self-paced training
-* Packaging training for different audiences
-* Organisational training approaches
-* LMS and SCORM delivery
-* Training lifecycle management
-* Turning specialist knowledge into practical learning products
-* Product improvement based on learner and client needs
+**Selected examples**
 
-**Examples / evidence to add:**
+* **Bupa:** Coordinated a large-scale accessibility training program delivered over eight months, involving more than 40 courses and five instructors.
+* **DBS:** Developed a targeted training approach beginning with team leads, followed by training for approximately 120 designers. Reviewed each module to identify the content most critical to the organisation and audience.
+* **Qantas:** Developed a blended accessibility training approach combining SCORM-based self-paced learning with instructor-led training, with a particular focus on testing web and native mobile applications.
 
-*
-*
-*
-*
+### Client engagement, sales and consulting
 
-### Commercial strategy, pricing and return on investment
-
-**Possible areas to explore:**
-
-* Training pricing models
-* Delivery costs
-* Product margins
-* Organisational licensing
-* Course bundles
-* Repeatable products versus bespoke delivery
-* Scaling training without proportionally increasing delivery costs
-* Commercial opportunities arising from existing consulting relationships
-
-**Examples / evidence to add:**
-
-*
-*
-*
-*
+* Meet with potential clients to understand their needs, organisational context and intended outcomes.
+* Advise on appropriate training approaches based on audience, scale and delivery requirements.
+* Scope and price training engagements and prepare proposals and statements of work.
+* Follow up leads and manage client relationships throughout the sales process.
+* Coordinate payment, course dates, meetings, instructor availability and delivery logistics.
+* Maintain relationships with existing clients and identify opportunities for further training and support.
 
 ### Marketing and lead generation
 
-**Possible areas to explore:**
+* Develop LinkedIn and content marketing approaches.
+* Develop warm lead strategies.
+* Develop Professional B2B Account-Based Marketing strategies.
+* Use free resources as lead-generation tools.
+* Identify enterprise audiences and relevant decision-makers.
+* Develop structured pipelines and follow-up approaches.
+* Measure engagement, response and conversion.
 
-* Marketing training products
-* Warm lead strategies
-* Cold lead strategies
-* LinkedIn and content marketing
-* Free resources as lead-generation tools
-* Moving audiences from educational content to commercial training products
-* Supporting launches and ongoing product awareness
-* Measuring engagement and response
+**B2B Account-Based Marketing strategy**
 
-**Examples / evidence to add:**
+Developed and presented a Professional B2B Account-Based Marketing strategy for enterprise accessibility training. The approach identified priority industries and organisations, targeted relevant decision-makers, used professional value-led outreach, defined clear follow-up pathways, and proposed measurement of response rates, information requests and follow-up conversations.
 
-*
-*
-*
-*
+### Technical writing and developer education
 
-### Writing and content strategy
+* Write detailed technical articles for developers on HTML, ARIA, accessibility and browser behaviour.
+* Translate complex accessibility concepts and specifications into clear, practical implementation guidance.
+* Develop educational resources explaining how accessibility features work, when they should be used and how they behave in practice.
+* Make highly technical subjects easier for developer audiences to understand and apply.
+* Use practical examples and code to explore accessibility behaviour and implementation patterns.
 
-**Possible areas to explore:**
-
-* Training scripts
-* Course content
-* Technical articles
-* Product and landing page copy
-* Client proposals
-* Educational resources
-* Social content
-* Translating complex technical concepts into clear language
-* Writing for specialist and non-specialist audiences
-
-**Examples / evidence to add:**
-
-*
-*
-*
-*
-
-### Client liaison and consulting
-
-**Possible areas to explore:**
-
-* Working directly with clients to identify needs
-* Turning client problems into practical training or capability solutions
-* Discussing scope, delivery options and priorities
-* Developing customised training approaches
-* Supporting clients before and after training
-* Working with technical teams, managers and senior stakeholders
-* Building longer-term client relationships
-
-**Examples / evidence to add:**
-
-*
-*
-*
-*
+**Articles:** [Max Design articles](https://www.maxdesign.com.au/articles/)
 
 ### AI-assisted product development and workflow design
 
-**Possible areas to explore:**
+* Use generative AI to support accessibility, training and technical development.
+* Develop and refine small, single-purpose tools and resources using iterative prompting, testing and manual review.
+* Break larger problems into modular tools and workflows that can be developed, tested and replaced independently.
+* Explore small-agent approaches and more advanced AI-supported accessibility services, including automated auditing.
 
-* Practical use of generative AI in accessibility work
-* AI-assisted development of tools and prototypes
-* Using different AI models for different tasks
-* Iterative prompting and evaluation
-* Small-agent and single-purpose-tool approaches
-* AI-supported research and analysis
-* Exploring AI-driven accessibility auditing
-* RAG, evaluation and constrained knowledge approaches
-* Workflow orchestration
-* Identifying where AI can improve efficiency or create new services
+**Article**
 
-**Examples / evidence to add:**
+* [Ways of working with AI](https://www.linkedin.com/pulse/ways-working-ai-russ-weakley-nbwic/)
 
-*
-*
-*
-*
+**Resources**
 
-### Strategy and process design
+* [37 accessibility testing bookmarklets](https://intopia.github.io/exercise/testing-bookmarklets-intopia.html) — built with Claude
+* [More than 100 single-purpose accessibility test pages](https://intopia.github.io/exercise/testing.html) — reviewed and adjusted with Claude
 
-**Possible areas to explore:**
+**Tools**
 
-* Identifying weaknesses in existing approaches
-* Designing repeatable processes
-* Breaking large problems into smaller systems or tools
-* Accessibility capability strategies
-* Training engagement strategies
-* Workflow design
-* Evaluation and continuous improvement
-* Moving organisations from reactive work to repeatable practices
-
-**Examples / evidence to add:**
-
-*
-*
-*
-*
+* [HTML email accessibility tester](https://intopia.github.io/html-email-accessibility-tester/)
+* [Word document accessibility tester](https://intopia.github.io/word-accessibility-tester/)
+* [EML to HTML converter](https://intopia.github.io/eml-to-html-converter/)
+* [HTML markup formatter](https://intopia.github.io/html-formatter/)
 
 ---
 
-## Additional technical capability
+## 6. Technical accessibility depth
 
-### Accessibility testing and remediation
-
-* Extensive experience conducting accessibility reviews, audits and assessments across digital products and web applications.
-* Manual and automated testing against WCAG, including root-cause analysis and practical remediation guidance.
-* Diagnose accessibility issues involving semantics, forms, focus, keyboard interaction, accessible names, ARIA and complex interaction patterns.
-* Work directly with developers and product teams to troubleshoot issues and implement practical solutions.
-* Integrate accessibility into QA and development workflows through acceptance criteria, repeatable testing practices and automated testing pipelines.
-
-### Assistive technologies
-
-* Extensive experience testing with NVDA, JAWS and VoiceOver, alongside screen magnification, speech recognition and voice control technologies.
-* Extensive keyboard-only and alternative input testing.
-* Delivered practical NVDA and VoiceOver training for teams and accessibility practitioners.
-* Test how HTML, ARIA and interface components are exposed across assistive technologies, browsers, devices and operating systems.
-* Deep understanding of browser accessibility trees, operating system accessibility APIs and interactions between browsers, platforms and assistive technologies.
-
-### Accessibility strategy and governance
-
-* Develop accessibility strategies that build capability across organisational teams.
-* Develop pre-training engagement and post-training follow-up approaches to support sustained accessibility capability.
-* Support organisations in defining accessibility responsibilities, processes and expectations.
-* Help teams embed accessibility acceptance criteria in design, development and QA.
-* Advise on practical approaches to governance, compliance, continuous improvement and shared ownership.
-
-### Standards and guidance
-
-* Extensive practical experience interpreting and applying WCAG across design, development, testing, remediation and training.
-* Experience applying WCAG in large banking, insurance and other organisational environments.
-* Good working understanding of the Disability Discrimination Act 1992 and its relevance to digital accessibility.
-* Familiar with AS EN 301 549 and Australian Human Rights Commission guidance.
-
-### Inclusive research
-
-* More than 20 years of experience conducting research and usability testing with people with disabilities.
-* Conduct usability testing, interviews, focus groups, contextual inquiry, heuristic evaluation and moderated research with people with diverse disabilities and access needs.
-* Conducted large-scale accessibility research with screen reader and Braille users, including research into data table accessibility.
-* Adapt research methods, environments and communication approaches for different access needs and assistive technologies.
-* Design and deliver training that helps researchers and product teams conduct inclusive, respectful and effective research with people with disability.
-
-### Training and capability development
-
-* More than 20 years delivering technical and accessibility training across HTML, CSS, web standards, inclusive design, accessibility testing and assistive technologies.
-* Delivered approximately 120 accessibility training courses during my first year at Intopia.
-* Delivered workshops and practical training in Australia and internationally, including Singapore, New Zealand and the United States.
-* Deliver specialist training for developers, designers, testers, content creators and accessibility practitioners.
-* Translate WCAG, HTML, ARIA and complex accessibility concepts into practical guidance and hands-on learning.
-
-### Technical accessibility and front-end development
-
-* Extensive experience working directly with developers to make complex digital interfaces accessible.
+* Extensive experience conducting manual and automated accessibility testing against WCAG, including root-cause analysis and remediation guidance.
 * Deep knowledge of semantic HTML, CSS, ARIA, native browser behaviour and accessible component architecture.
-* Diagnose complex accessibility issues involving markup, browser behaviour, accessibility APIs and assistive technologies.
-* Translate accessibility requirements into practical implementation guidance.
-* More than 20 years writing articles, technical guidance and educational resources explaining accessibility and front-end concepts.
-* Develop and maintain online test cases, support reports and technical resources investigating HTML, ARIA and assistive technology behaviour.
+* Extensive testing with NVDA, JAWS and VoiceOver, alongside screen magnification, speech recognition, voice control and keyboard-only interaction.
+* Diagnose complex accessibility issues involving semantics, focus, keyboard interaction, accessible names, ARIA, browser accessibility trees and platform accessibility APIs.
+* More than 20 years conducting inclusive research and usability testing with people with disability.
+* Extensive practical experience applying WCAG, with working knowledge of the Disability Discrimination Act 1992, AS EN 301 549 and Australian Human Rights Commission guidance.
