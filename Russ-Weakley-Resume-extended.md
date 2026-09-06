@@ -115,58 +115,24 @@ Developed a design system and component library for new web applications, combin
 ## 4. Earlier career
 
 ### UX Designer / UI Developer, WhistleOut
-
 **February 2015 to December 2015**
-
-Built a responsive component and layout pattern library for WhistleOut’s digital products, combining UI development, design systemisation and accessibility.
-
-* Developed HTML, CSS and LESS frameworks and pattern libraries.
-* Built reusable components and responsive layouts with accessibility requirements incorporated from the outset.
-* Helped improve consistency, usability and accessibility across WhistleOut’s websites.
+Built responsive component and layout libraries for WhistleOut’s digital products, combining front-end development, design systems and accessibility.
 
 ### UI Developer and Accessibility Specialist, Fiserv
-
 **2013 to 2014**
-
-Provided accessibility advice and implementation support across a large banking application.
-
-* Provided accessibility guidance for UI component implementation.
-* Worked directly with developers to resolve accessibility issues in complex banking interfaces.
-* Developed HTML and CSS pattern libraries aligned with accessibility standards.
-* Translated accessibility requirements into practical front-end solutions.
+Provided accessibility advice and implementation support across a large banking application, working directly with developers on accessible UI components and complex interfaces.
 
 ### UX/UI Designer and Accessibility Specialist, Australian Museum
-
 **January 1998 to December 2013**
-
-Led the design and development of museum websites and web applications, with a strong focus on accessibility, UX and front-end development.
-
-* Designed and developed accessible websites and digital experiences.
-* Applied accessibility and usability principles throughout design and development.
-* Developed reusable front-end patterns and component libraries.
-* Conducted usability research and testing, including research with people with disabilities.
+Led design and development of museum websites and digital products, combining accessibility, UX, front-end development and research with people with disabilities.
 
 ### Web Manager, Australian Museum
-
 **March 2005 to January 2006**
+Managed museum web projects and supervised three full-time staff and several contractors.
 
-Managed museum web projects, supervising three full-time staff and several contractors.
-
-### UX/UI Designer and Accessibility Specialist, Max Design
-
+### Founder / UX/UI Designer and Accessibility Specialist, Max Design
 **January 1990 to February 2014**
-
-Founded and managed Max Design, a Sydney-based web development business specialising in accessibility, UX and UI design.
-
-Clients included Sensis, Microsoft Australia, Sydney Morning Herald, Amnesty International Australia and Reed Publishing.
-
-* Designed and developed accessible, standards-compliant websites.
-* Provided accessibility, UX and front-end development services.
-* Worked directly with developers and organisations to resolve accessibility and usability issues.
-* Delivered training on HTML, CSS, web standards and accessibility from 2005 onwards.
-* Delivered workshops in Australia and internationally, including Singapore, New Zealand and the United States.
-* Published technical articles and resources explaining web standards and accessibility concepts for developers.
-* Worked with organisations to improve the accessibility and usability of digital products.
+Founded and managed a web development business specialising in accessibility, UX, UI design and training. Clients included Microsoft Australia, Sensis, Sydney Morning Herald, Amnesty International Australia and Reed Publishing, with training delivered in Australia, Singapore, New Zealand and the United States.
 
 ---
 
