@@ -28,9 +28,10 @@ I strongly believe in the following:
 
 ## Democracy, law, and justice systems
 
-- Democracy must be protected and expanded
-- Prisons should focus on rehabilitation, not punishment
-- The right of people everywhere to self-determination, democratic governance, and protection under international law
+- Pluralistic societies where everyone has equal rights, dignity and political voice
+- Protection and expansion of democracy
+- Prison systems focused on rehabilitation rather than punishment
+- The right of people everywhere to self-determination, democratic governance and protection under international law
 
 ## Anti-colonialism, peace, and international solidarity
 
