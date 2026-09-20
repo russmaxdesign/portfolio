@@ -15,7 +15,7 @@ https://www.whistleout.com.au/
 
 Ambiata
 2016-2018
-Complex data visualisation design system - no longer love
+Complex data visualisation design system - no longer live
 https://ambiata.com/
 
 IAG
